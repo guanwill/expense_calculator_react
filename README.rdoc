@@ -1,28 +1,9 @@
-== README
+==Expense Calculator
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is an expense calculator that allows user to input their expense data including: date, description, and amount.
+The calculator will add up all your expense entries and return a balance. This project aims to test the basic functionalities of React.
 
-Things you may want to cover:
+Notes:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+* Ruby on Rails as backend to create Restful API
+* ReactJS to use RESTful API to successfully render views and perform crud functions
